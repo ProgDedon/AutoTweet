@@ -1,0 +1,5 @@
+{
+  "name": "Twitter AI Agent & Batch Replier",
+  "description": "An AI-powered Twitter agent for batch replying and composing tweets using multiple authenticated accounts with customizable personas and image analysis.",
+  "requestFramePermissions": []
+}
